@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\bin\Debug\net9.0\Support.Application.deps.json
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\bin\Debug\net9.0\Support.Application.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\bin\Debug\net9.0\Support.Application.pdb
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\bin\Debug\net9.0\Support.Domain.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\bin\Debug\net9.0\Support.Domain.pdb
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.AssemblyInfo.cs
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.sourcelink.json
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support..349C2881.Up2Date
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\refint\Support.Application.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\Support.Application.pdb
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Application\obj\Debug\net9.0\ref\Support.Application.dll

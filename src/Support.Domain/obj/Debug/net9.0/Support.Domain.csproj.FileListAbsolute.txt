@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\bin\Debug\net9.0\Support.Domain.deps.json
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\bin\Debug\net9.0\Support.Domain.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\bin\Debug\net9.0\Support.Domain.pdb
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.AssemblyInfo.cs
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.sourcelink.json
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\refint\Support.Domain.dll
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\Support.Domain.pdb
+C:\Users\Student\Desktop\исп-9\SupportSolution\src\Support.Domain\obj\Debug\net9.0\ref\Support.Domain.dll
